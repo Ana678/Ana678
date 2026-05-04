@@ -33,7 +33,7 @@ Atuo no desenvolvimento de sistemas para gestão e plataformas digitais, partici
 
 ## Projetos em Destaque
 
-### Massas São José (Projeto Real em Produção)
+### Massas São José (Projeto Real)
 
 Sistema de gestão para empresa de produtos artesanais
 
