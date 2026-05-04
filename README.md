@@ -1,16 +1,25 @@
 # Ana Carolina
 
-Engenheira de Software & UX Designer
-Construindo tecnologia com propósito humano
+Software Engineer | Frontend & Backend | UX-Driven Development
 
 ---
 
 ## Sobre
 
-Sou desenvolvedora com foco em criar soluções que vão além do código.
-Uno engenharia de software e experiência do usuário para desenvolver produtos funcionais, intuitivos e com impacto real.
+Engenheira de Software com foco em desenvolvimento de aplicações web escaláveis e centradas no usuário.
+Combino engenharia de software e UX para construir soluções eficientes, intuitivas e com impacto real.
 
-Tenho experiência no desenvolvimento de plataformas web e sistemas voltados para áreas como **saúde pública** e **tecnologia para gestão**, sempre buscando eficiência, clareza e usabilidade.
+Experiência no desenvolvimento de sistemas voltados para gestão, saúde pública e plataformas digitais, atuando do design à implementação.
+
+---
+
+## Foco Técnico
+
+* Frontend com React e Next.js
+* Backend com Node.js e Java (Spring Boot / Spring Cloud)
+* Desenvolvimento de APIs REST e microserviços
+* Integração entre sistemas e arquitetura escalável
+* Design centrado no usuário aplicado ao desenvolvimento
 
 ---
 
@@ -24,28 +33,19 @@ Tenho experiência no desenvolvimento de plataformas web e sistemas voltados par
 
 ## Projetos em Destaque
 
-### E-commerce Dashboard
-
-Painel administrativo com visualização de dados em tempo real
-
-* Redução de 70% no tempo de geração de relatórios
-* Aumento de 40% na agilidade de decisões
-
----
-
 ### App de Saúde
 
-Aplicativo para acompanhamento de hábitos saudáveis
+**Stack:** React Native, Node.js, MongoDB
 
 * Mais de 10 mil usuários ativos
 * Avaliação média de 4.8
-* Retenção 2x maior que a média
+* Retenção 2x maior que a média do setor
 
 ---
 
 ### Sistema Acadêmico
 
-Plataforma com foco em experiência do usuário
+**Stack:** Java, Spring Boot, PostgreSQL
 
 * Redução de 60% nos chamados de suporte
 * Tempo de matrícula reduzido de 15 para 3 minutos
@@ -54,7 +54,7 @@ Plataforma com foco em experiência do usuário
 
 ### Landing Page SaaS
 
-Página otimizada para conversão
+**Stack:** React, Tailwind, Framer Motion
 
 * Conversão aumentada de 0,8% para 4,5%
 * Redução de 55% no custo por lead
@@ -63,18 +63,29 @@ Página otimizada para conversão
 
 ### API de Pagamentos
 
-Microserviço escalável para integração com gateways
+**Stack:** Java, Spring Cloud, Docker
 
 * Redução de 80% no tempo de integração
 * 99,95% de disponibilidade
+* Arquitetura com retry automático e observabilidade
+
+---
+
+## Arquitetura & Boas Práticas
+
+* Estruturação de APIs REST escaláveis
+* Desenvolvimento de microserviços
+* Código limpo e organizado (Clean Code)
+* Integração frontend + backend
+* Aplicação de UX no fluxo de desenvolvimento
 
 ---
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana678\&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana678\&layout=compact)
 
 ---
 
@@ -82,17 +93,17 @@ Microserviço escalável para integração com gateways
 
 * Projetos com foco em impacto real
 * Integração entre frontend, backend e UX
-* Código limpo e organizado
-* Boas práticas de arquitetura e desenvolvimento
+* Implementações com boas práticas de arquitetura
+* Código organizado e escalável
 
 ---
 
 ## Contato
 
-* LinkedIn: linkedin.com/in/anacarolina
+* LinkedIn: https://linkedin.com/in/anacarolina
 * Email: [anaaraujo.dev@gmail.com](mailto:anaaraujo.dev@gmail.com)
-* GitHub: github.com/ana678
+* GitHub: https://github.com/ana678
 
 ---
 
-Sempre aberta a novas oportunidades e conexões.
+Sempre aberta a novas oportunidades e desafios.
