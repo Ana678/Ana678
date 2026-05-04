@@ -98,7 +98,7 @@ Sistema de gestão para empresa de produtos artesanais
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana678&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana678&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 
