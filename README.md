@@ -17,8 +17,8 @@ Atuo no desenvolvimento de sistemas para gestão e plataformas digitais, partici
 
 * Frontend com React e Next.js
 * Backend com Node.js e Java (Spring Boot / Spring Cloud)
-* Desenvolvimento de APIs REST e microserviços
-* Integração entre sistemas e arquitetura escalável
+* Desenvolvimento de APIs REST
+* Arquitetura de sistemas e integração entre serviços
 * Design centrado no usuário aplicado ao desenvolvimento
 
 ---
@@ -26,23 +26,23 @@ Atuo no desenvolvimento de sistemas para gestão e plataformas digitais, partici
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,java,spring,postgres,mongodb,docker,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,java,spring,postgres,docker,figma,tailwind,css,html,js,npm,vite,vitest,vscode" />
 </p>
 
 ---
 
 ## Projetos em Destaque
 
-### Massas São José (Projeto Real)
+### Massas São José (Projeto Real em Produção)
 
-**Sistema de gestão para empresa de produtos artesanais**
+Sistema de gestão para empresa de produtos artesanais
 
 **Stack:** React, Node.js, PostgreSQL
 
-* Desenvolvimento de funcionalidades para controle de pedidos, clientes e operação diária
-* Estruturação de fluxos para otimizar processos internos da empresa
-* Aplicação de UX para tornar o sistema simples e eficiente para uso no dia a dia
-* Projeto para uso real, com impacto direto na operação do negócio
+* Desenvolvimento de funcionalidades para controle de pedidos, clientes e operação
+* Modelagem de dados e estruturação do backend
+* Criação de interfaces com foco em usabilidade
+* Aplicação em ambiente real, apoiando processos do negócio
 
 ---
 
@@ -50,9 +50,9 @@ Atuo no desenvolvimento de sistemas para gestão e plataformas digitais, partici
 
 **Stack:** Java, Spring Cloud, Docker
 
-* Redução de 80% no tempo de integração
-* 99,95% de disponibilidade
-* Arquitetura com retry automático e observabilidade
+* Desenvolvimento de microserviço para integração com gateways
+* Estruturação de arquitetura escalável
+* Implementação de mecanismos de retry e organização por serviços
 
 ---
 
@@ -60,9 +60,9 @@ Atuo no desenvolvimento de sistemas para gestão e plataformas digitais, partici
 
 **Stack:** React Native, Node.js, MongoDB
 
-* Mais de 10 mil usuários ativos
-* Avaliação média de 4.8
-* Retenção 2x maior que a média do setor
+* Desenvolvimento de aplicativo mobile-first
+* Integração com backend e persistência de dados
+* Criação de fluxo de uso focado no usuário
 
 ---
 
@@ -70,8 +70,9 @@ Atuo no desenvolvimento de sistemas para gestão e plataformas digitais, partici
 
 **Stack:** Java, Spring Boot, PostgreSQL
 
-* Redução de 60% nos chamados de suporte
-* Tempo de matrícula reduzido de 15 para 3 minutos
+* Desenvolvimento de sistema de gestão acadêmica
+* Implementação de regras de negócio
+* Integração entre backend e banco de dados
 
 ---
 
@@ -79,27 +80,34 @@ Atuo no desenvolvimento de sistemas para gestão e plataformas digitais, partici
 
 **Stack:** React, Tailwind, Framer Motion
 
-* Conversão aumentada de 0,8% para 4,5%
-* Redução de 55% no custo por lead
+* Desenvolvimento de interface com foco em apresentação de produto
+* Uso de animações para melhorar experiência do usuário
+* Estruturação de layout responsivo
 
 ---
 
 ## Arquitetura & Boas Práticas
 
-* Estruturação de APIs REST escaláveis
+* Estruturação de APIs REST
 * Desenvolvimento de microserviços
-* Código limpo e organizado (Clean Code)
+* Código limpo e organizado
 * Integração frontend + backend
-* Aplicação de UX no fluxo de desenvolvimento
+* Aplicação de UX no desenvolvimento
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana678\&show_icons=true\&include_all_commits=true\&count_private=true\&cache_seconds=1800)
 
 ---
 
 ## O que você vai encontrar aqui
 
-* Projetos com foco em impacto real
+* Projetos acadêmicos e práticos
+* Aplicação de conceitos de engenharia de software
 * Integração entre frontend, backend e UX
-* Implementações com boas práticas de arquitetura
-* Código organizado e escalável
+* Código organizado e estruturado
 
 ---
 
