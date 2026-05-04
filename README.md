@@ -6,10 +6,10 @@ Software Engineer | Frontend & Backend | UX-Driven Development
 
 ## Sobre
 
-Engenheira de Software com foco em desenvolvimento de aplicações web escaláveis e centradas no usuário.
-Combino engenharia de software e UX para construir soluções eficientes, intuitivas e com impacto real.
+Engenheira de Software com foco no desenvolvimento de aplicações web escaláveis e centradas no usuário.
+Uno engenharia de software e UX para criar soluções eficientes, intuitivas e com impacto real.
 
-Experiência no desenvolvimento de sistemas voltados para gestão, saúde pública e plataformas digitais, atuando do design à implementação.
+Atuo no desenvolvimento de sistemas para gestão e plataformas digitais, participando desde a concepção até a implementação.
 
 ---
 
@@ -32,6 +32,29 @@ Experiência no desenvolvimento de sistemas voltados para gestão, saúde públi
 ---
 
 ## Projetos em Destaque
+
+### Massas São José (Projeto Real)
+
+**Sistema de gestão para empresa de produtos artesanais**
+
+**Stack:** React, Node.js, PostgreSQL
+
+* Desenvolvimento de funcionalidades para controle de pedidos, clientes e operação diária
+* Estruturação de fluxos para otimizar processos internos da empresa
+* Aplicação de UX para tornar o sistema simples e eficiente para uso no dia a dia
+* Projeto para uso real, com impacto direto na operação do negócio
+
+---
+
+### API de Pagamentos
+
+**Stack:** Java, Spring Cloud, Docker
+
+* Redução de 80% no tempo de integração
+* 99,95% de disponibilidade
+* Arquitetura com retry automático e observabilidade
+
+---
 
 ### App de Saúde
 
@@ -61,16 +84,6 @@ Experiência no desenvolvimento de sistemas voltados para gestão, saúde públi
 
 ---
 
-### API de Pagamentos
-
-**Stack:** Java, Spring Cloud, Docker
-
-* Redução de 80% no tempo de integração
-* 99,95% de disponibilidade
-* Arquitetura com retry automático e observabilidade
-
----
-
 ## Arquitetura & Boas Práticas
 
 * Estruturação de APIs REST escaláveis
@@ -78,14 +91,6 @@ Experiência no desenvolvimento de sistemas voltados para gestão, saúde públi
 * Código limpo e organizado (Clean Code)
 * Integração frontend + backend
 * Aplicação de UX no fluxo de desenvolvimento
-
----
-
-## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana678\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana678\&layout=compact)
 
 ---
 
